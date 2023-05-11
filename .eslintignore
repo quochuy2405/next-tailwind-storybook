@@ -7,4 +7,3 @@ next.config.js
 tailwind.config.js
 postcss.config.js
 yarn-lock
-**/*.ts
